@@ -4,6 +4,7 @@ licences = ["Apache-2.0"]
 description = "Gleam bindings to gun, the HTTP/1.1, HTTP/2 and Websocket client"
 repository = { type = "github", user = "lpil", repo = "nerf" }
 links = [{ title = "Website", href = "https://gleam.run" }]
+gleam = ">= 0.32.0"
 
 [dependencies]
 gleam_stdlib = "~> 0.24"
