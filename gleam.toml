@@ -14,4 +14,4 @@ gleam_erlang = "~> 0.9"
 certifi = "~> 2.8"
 
 [dev-dependencies]
-gleeunit = "~> 0.6"
+gleeunit = "~> 1.0"
